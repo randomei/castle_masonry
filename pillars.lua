@@ -280,13 +280,6 @@ local PILLAR_VARIANTS = {
 	"_middle_half",
 	"_top",
 	"_top_half",
-	"_bottom",
-	"_bottom_half",
-	"_crossbrace",
-	"_middle",
-	"_middle_half",
-	"_top",
-	"_top_half"
 }
 
 -- The original castle mod had "pillars_", plural, which didn't match the arrowslit and murderhole standard.
